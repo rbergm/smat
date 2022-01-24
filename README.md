@@ -1,4 +1,4 @@
-= SMAT
+# SMAT
 
 _SMAT_ (**S**tring **ma**nipulation **t**ool) is a simple utility to modify batches of text lines. It can add, as well as remove prefixes and suffixes and is
 intended for content that follow some sort of format, e.g. log files.
